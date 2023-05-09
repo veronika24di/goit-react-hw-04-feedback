@@ -9,7 +9,6 @@
 .wrapper {
     display: flex;
     gap: 10px;
-    list-style: none;
     align-items: center;
     justify-content: space-around;
     margin-bottom: 10px;
